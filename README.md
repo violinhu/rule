@@ -1,2 +1,2 @@
 # rule
-# This i defined some rule of how to routing by clash mate.
+# Here defined some rules of how to routing by clash mate.
