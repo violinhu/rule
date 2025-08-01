@@ -10,7 +10,7 @@ proxy-providers:
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
-      interval: 300
+      interval: 180
     proxy: 直连
   Mitce:
     url: "https://app.mitce.net/?sid=302336&token=srvvpbrk"
@@ -19,7 +19,7 @@ proxy-providers:
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
-      interval: 300
+      interval: 180
     proxy: 直连
   Niubi:
     url: "http://8.138.135.231:8090/api/v1/client/subscribe?token=79625457eb9e293ca13dae6166450e5d"
@@ -28,7 +28,7 @@ proxy-providers:
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
-      interval: 300
+      interval: 180
     proxy: 直连
 
 # 节点信息
